@@ -1,0 +1,1 @@
+# speed-decaying-slideshow-template
